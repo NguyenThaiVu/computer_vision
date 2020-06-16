@@ -1,4 +1,4 @@
-# computer_vision
+# COMPUTER_VISION
 ## Series about computer vision 
 1. deep-learning-face-detection: perform facial recognition using OpenCV, Python, and deep learning.
 2. deep-learning-with-opencv: use OpenCV and GoogleLeNet (pre-trained on ImageNet) to classify images.
